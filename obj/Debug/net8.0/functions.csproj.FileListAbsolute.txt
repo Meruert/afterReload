@@ -1,0 +1,14 @@
+C:\Users\meruert.mukhamedkali\Desktop\c# tasks\ipro\functions\obj\Debug\net8.0\functions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meruert.mukhamedkali\Desktop\c# tasks\ipro\functions\obj\Debug\net8.0\functions.AssemblyInfoInputs.cache
+C:\Users\meruert.mukhamedkali\Desktop\c# tasks\ipro\functions\obj\Debug\net8.0\functions.AssemblyInfo.cs
+C:\Users\meruert.mukhamedkali\Desktop\c# tasks\ipro\functions\obj\Debug\net8.0\functions.csproj.CoreCompileInputs.cache
+C:\Users\meruert.mukhamedkali\Desktop\c# tasks\ipro\functions\bin\Debug\net8.0\functions.exe
+C:\Users\meruert.mukhamedkali\Desktop\c# tasks\ipro\functions\bin\Debug\net8.0\functions.deps.json
+C:\Users\meruert.mukhamedkali\Desktop\c# tasks\ipro\functions\bin\Debug\net8.0\functions.runtimeconfig.json
+C:\Users\meruert.mukhamedkali\Desktop\c# tasks\ipro\functions\bin\Debug\net8.0\functions.dll
+C:\Users\meruert.mukhamedkali\Desktop\c# tasks\ipro\functions\bin\Debug\net8.0\functions.pdb
+C:\Users\meruert.mukhamedkali\Desktop\c# tasks\ipro\functions\obj\Debug\net8.0\functions.dll
+C:\Users\meruert.mukhamedkali\Desktop\c# tasks\ipro\functions\obj\Debug\net8.0\refint\functions.dll
+C:\Users\meruert.mukhamedkali\Desktop\c# tasks\ipro\functions\obj\Debug\net8.0\functions.pdb
+C:\Users\meruert.mukhamedkali\Desktop\c# tasks\ipro\functions\obj\Debug\net8.0\functions.genruntimeconfig.cache
+C:\Users\meruert.mukhamedkali\Desktop\c# tasks\ipro\functions\obj\Debug\net8.0\ref\functions.dll
